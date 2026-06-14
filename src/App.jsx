@@ -64,6 +64,9 @@ function App() {
           ))}
         </div>
       </div>
+      <footer className="footer">
+        <p>© 2026 Sport Shoes Store - Agil Rifaldi</p>
+      </footer>
     </>
   );
 }
